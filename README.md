@@ -1,9 +1,3 @@
-本项目仅供学习交流
-
-[感谢大佬Alvin🥳🥳🥳](https://github.com/Alvin9999)
-
-Chromego项目地址：https://github.com/Alvin9999/new-pac Star一下吧！
-
 ![](nekoray_g6NZqPlsZX.webp)
 
 大概就是这样的，显示节点地理位置，尽量别滥用，谢谢
@@ -15,9 +9,3 @@ Windows: https://github.com/MatsuriDayo/nekoray/releases
 Andriod: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 
 当然，全平台客户端查看：[https://v2rayse.com/client](https://v2rayse.com/client)
-
-> 订阅链接
-
-```
-https://raw.githubusercontent.com/markbang/chromegopacs/main/hy2pac.txt
-```
